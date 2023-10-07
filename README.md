@@ -1,8 +1,8 @@
 # Data-visualization-project
 "I completed the project following Vishal Kohli's guidance through his YouTube video.
-
-Title :Virat kohli Career Statistics Analysis Dashboard-
-Discription :
+<br>
+Title :Virat kohli Career Statistics Analysis Dashboard-<br>
+Discription :<br>
 • The interactive Powerbidashboard allows users to explore Virat Kohli's career as a cricket legend.
 • Users can compare Kohli's stats from last year and across three formats of cricket (Test, ODI, T20).
 • The dashboard allows users to track Kohli's performance over time and analyze his matches on a match-by-match basis.
